@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilya, and I'm a beginner in programming from Poland.</h2>
+<h1 align="left">Hi 👋! My name is Ilya, and I'm a beginner in programming from Poland.</h1>
 
 ###
 
@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<h3 align="center">💫 About Me:</h3>
+<h2 align="center">💫 About Me:</h2>
 
 ###
 
@@ -57,10 +57,17 @@
 
 ###
 
+### <h2 align="center">  📊 GitHub Stats: </h2>
+
 <div align="center">
+
+![](https://nirzak-streak-stats.vercel.app/?user=iliapp&theme=dark&hide_border=false)<br/>
+
   <img src="https://github-readme-stats.vercel.app/api?username=iliapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iliapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
 
 ###
 
