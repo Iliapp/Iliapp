@@ -4,7 +4,11 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media.tenor.com/HZUla_cmhoAAAAAM/party-in-provincetown.gif"  />
+<img align="right" height="186ex" src="https://media.tenor.com/HZUla_cmhoAAAAAM/party-in-provincetown.gif"  />
+
+<div width="2ex">
+  .
+</div>
 
 ###
 
