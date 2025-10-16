@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋! My name is Ilya, and I'm a beginner in programming from Poland.</h1>
 
+
+
+
 ###
 
 <br clear="both">
@@ -36,6 +39,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android studio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows logo" />
+
 
 </div>
 
@@ -60,7 +74,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on simple projects as part of my learning journey.<br>🌱 I’m currently learning C++ and Java to build a solid programming foundation.<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com</p>
+<p align="left">🔭 I’m currently working on simple projects as part of my learning journey.<br>🌱 I’m currently learning C++, Java,Python, SQL, and different languages to build a solid programming foundation.<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com</p>
 
 ###
 
