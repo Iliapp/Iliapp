@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">🛠 Languages</p>
+<p align="left">🛠 Languages:</p>
 
 ###
 
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />
 
   
-  <p align="left">🔧 Tools</p>
+  <p align="left">🔧 Tools:</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
