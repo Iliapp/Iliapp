@@ -95,7 +95,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on simple projects as part of my learning journey.<br>🌱 I’m currently learning C++, Java,Python, SQL, Android Studio and different languages to build a solid programming foundation.<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com</p>
+<p align="left">🔭 I’m currently working on simple projects as part of my learning journey.<br>🌱 I’m currently learning C++, Java,Python, SQL, Android Studio and different languages to build a solid programming foundation.<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com, or discord</p>
 
 ###
 
