@@ -1,21 +1,9 @@
-<h1 align="left">Hi 👋! My name is Ilya, and I'm a beginner in programming from Poland.</h1>
-
-
+<h1 align="left">Hi 👋! I'm Ilya, a student exploring frontend & backend development.</h1>
 
 
 ###
 
-<br clear="both">
-
-<img align="right" height="186ex" src="https://media.tenor.com/HZUla_cmhoAAAAAM/party-in-provincetown.gif"  />
-
-<div width="2ex">
-  .
-</div>
-
-###
-
-<p align="left">🛠 Languages:</p>
+<p align="left">Languages:</p>
 
 ###
 
@@ -49,7 +37,7 @@
 
 
   
-  <p align="left">🔧 Tools:</p>
+  <p align="left">Tools:</p>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
@@ -79,11 +67,11 @@
 <br clear="both">
 
 <div align="right">
-  <a href="https://discord.com/channels/@me" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
-  </a>
-    <a href="https://www.hackerrank.com/profile/smaksnowy" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="hackerrank logo"  />
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=iluhasmakovskyi@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
+    </a>
+   <a href="https://github.com/Iliapp" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="github logo"  />
     </a>
 </div>
 
@@ -95,7 +83,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on simple projects as part of my learning journey.<br>🌱 I’m currently learning C++, Java,Python, SQL, Android Studio and different languages to build a solid programming foundation.<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com, or discord</p>
+<p align="left">🔭 Working on a lot of different stuff — currently diving into Expo & React Native <br>🌱 Looking for a Frontend / Full-Stack opportunity to grow and gain real-world experience<br>👨‍💻 All of my projects are available at GitHub<br>📫 How to reach me: iluhasmakovskyi@gmail.com </p>
 
 ###
 
