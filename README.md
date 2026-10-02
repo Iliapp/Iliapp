@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Ilya, a student exploring frontend & backend development.</h1>
+<h1 align="left">Hi 👋! I'm Ilya, a student exploring frontend & backend development</h1>
 
 
 ###
